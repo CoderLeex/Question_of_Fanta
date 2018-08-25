@@ -20,10 +20,10 @@ void main()
 	//num = 0;
 	move(4, 'A', 'B', 'C');
 	cout << "num:" << num << endl;
-	/*for (int i = 1; i <= 100;)
+	for (int i = 1; i <= 100;)
 	{
 		cout << i << endl;
 		i += 3;
-	}*/
+	}
 	system("pause");
 }
